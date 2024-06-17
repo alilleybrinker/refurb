@@ -1,0 +1,4 @@
+
+[workspace]
+members = ["refurb", "refurb-derive"]
+resolver = "2"
